@@ -1,10 +1,10 @@
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-class SelectionSortTest {
+class BubbleSortTest {
 
-    private ArraySorter arraySorter = new SelectionSort();
+    private ArraySorter arraySorter = new BubbleSort();
 
     @Test
     void sortAscending_ShouldWorkCorrect(){
