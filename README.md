@@ -1,4 +1,4 @@
-#Array Sorting Algorithms
+# Array Sorting Algorithms
 
 | Algorithm       | Best time | Average time | Worst time | Worst space |
 | --------------- | --------- | ------------ | ---------- | ----------- | 
